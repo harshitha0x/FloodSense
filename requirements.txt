@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+joblib
+shap
+time
+matplotlib
+folium
+streamlit-folium
+streamlit-autorefresh
+requests
+scikit-learn==1.6.1
